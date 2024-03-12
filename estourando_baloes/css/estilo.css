@@ -1,0 +1,15 @@
+#interface {
+    align-content: center;
+    align-self: center;
+    float: center;
+    width: 600px;
+    height: 600px;
+    background-image: url('../imagens/interface.png');
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    margin-top: 300px;
+}
